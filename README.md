@@ -1,4 +1,4 @@
-# Hey there!
+# Hello!
 
 Welcome to my corner of GitHub. I like building video games and web services.
 
