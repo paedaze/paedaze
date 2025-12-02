@@ -1,6 +1,6 @@
 # Hey there!
 
-Welcome to my corner of GitHub. I like building small, useful tools and clean experiments.
+Welcome to my corner of GitHub. I like building video games and web services.
 
 ## Languages & Tools
 ### Languages
@@ -16,13 +16,9 @@ Welcome to my corner of GitHub. I like building small, useful tools and clean ex
 - **Milesplit GA Virtual Meet Simulator** - Build virtual Georgia track meets and see projected results. [Live site](https://milesplit-ga-virtual-meet-simulator-production.up.railway.app/)
 
 ## What to expect here
-- Web tools, prototypes, and experiments
-- Sports data tinkering and simple simulations
-- Notes on what I am learning or refining
+- Web Services, Video Games, and other small tools
 
 ## Want to collaborate?
-- Open an issue if you spot a bug or have an idea
-- Fork a repo and share what you build
 - Reach out with suggestions
 
 Thanks for visiting!
