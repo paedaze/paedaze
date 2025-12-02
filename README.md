@@ -4,7 +4,7 @@ Welcome to my corner of GitHub. I like building video games and web services.
 
 ## Languages & Tools
 ### Languages
-![C#](https://img.shields.io/badge/C%23-68217A?logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-F89820?logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=306998) ![SQLite](https://img.shields.io/badge/SQLite-03B0E8?logo=sqlite&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-F89820?logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-03B0E8?logo=sqlite&logoColor=white)
 
 ### Frameworks & Libraries
 ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-1E90FF?logo=flask&logoColor=white) ![Scrapy](https://img.shields.io/badge/Scrapy-60A839?logo=scrapy&logoColor=white)
