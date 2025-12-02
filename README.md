@@ -1,6 +1,11 @@
 ## Hi
 
-#### This is project:  <a href="https://www.w3schools.com">Milesplit GA Virtual Meet Simulator</a> 
+### Projects
+####    <ul>
+####      <li>This is project:  <a href="https://www.w3schools.com">Milesplit GA Virtual Meet Simulator</a> </li>
+####      <li>Item Two</li>
+####      <li>Item Three</li>
+####    </ul>
 <!--
 **paedaze/paedaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
