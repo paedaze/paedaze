@@ -3,7 +3,7 @@
 Welcome to my corner of GitHub. I like building video games and web services.
 
 ## Languages & Tools
-### Languages
+### Languages and Databases
 ![C#](https://img.shields.io/badge/C%23-68217A?logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-F89820?logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-03B0E8?logo=sqlite&logoColor=white)
 
 ### Frameworks & Libraries
