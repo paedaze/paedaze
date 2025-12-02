@@ -12,7 +12,7 @@ Welcome to my corner of GitHub. I like building small, useful tools and clean ex
 ### Deployment & Tools
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
-## Featured project
+## Projects
 - **Milesplit GA Virtual Meet Simulator** - Build virtual Georgia track meets and see how results shake out. [Live site](https://milesplit-ga-virtual-meet-simulator-production.up.railway.app/)
 
 ## What to expect here
@@ -21,8 +21,6 @@ Welcome to my corner of GitHub. I like building small, useful tools and clean ex
 - Notes on what I am learning or refining
 
 ## Want to collaborate?
-- Open an issue if you spot a bug or have an idea
-- Fork a repo and share what you build
 - Reach out with suggestions
 
 Thanks for visiting!
