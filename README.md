@@ -13,7 +13,7 @@ Welcome to my corner of GitHub. I like building video games and web services.
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 ## Projects
-- **[Milesplit GA Virtual Meet Simulator](https://milesplit-ga-virtual-meet-simulator-production.up.railway.app/)**: Build virtual Georgia Milesplit xc/track meets. Website automatically updates using Celery Workers + Beat and Redis
+- **[Milesplit GA Virtual Meet Simulator](https://milesplit-ga-virtual-meet-simulator-production.up.railway.app/)**: Build virtual Georgia Milesplit xc/track meets. Website automatically updates with the most recent runner+school data using Celery Workers + Beat and Redis
 
 ## What to expect here
 - Web Services, Video Games, and other small tools
