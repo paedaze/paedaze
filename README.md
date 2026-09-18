@@ -1,6 +1,6 @@
 # Hello!
 
-Welcome to my corner of GitHub. I like building video games and web services.
+video games and web
 
 ## Languages & Tools
 ### Languages & Databases
