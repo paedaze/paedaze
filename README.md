@@ -1,4 +1,4 @@
-# Hello!
+# Hello
 
 video games and web
 
