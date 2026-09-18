@@ -14,11 +14,3 @@ video games and web
 
 ## Projects
 - **[Milesplit GA Virtual Meet Simulator](https://milesplit-ga-virtual-meet-simulator-production.up.railway.app/)**: Build virtual Georgia Milesplit xc/track meets. Website automatically updates with the most recent runner+school data using Celery Workers + Beat and Redis
-
-## What to expect here
-- Web Services, Video Games, and other small tools
-
-## Want to collaborate?
-- Reach out with suggestions
-
-Thanks for visiting!
